@@ -1,0 +1,84 @@
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Bangers&family=Caveat&family=Cinzel&family=Dancing+Script&family=Julee&family=Passions+Conflict&family=Permanent+Marker&family=Playfair+Display+SC&family=Sassy+Frass&family=Satisfy&display=swap');
+
+
+body {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    background-color: #f7f7f7;
+    justify-content: center;
+    background-image: url(./images/R.jpg);
+    opacity: unset;
+  }
+  
+  h1 {
+    font-family: 'Julee', serif;
+    font-size: 70px;
+    margin-top: 50px;
+    background: lightcyan;
+  }
+  
+  body > p1 {
+    font-size: 40px;
+    font-family: 'cinzel', cursive;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    line-height: 1.5;
+    color:orange;
+    background: black;
+  }
+  
+  body > p2 {
+    font-size: 30px;
+    font-family: 'cinzel', serif;;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    line-height: 1.5;
+    color: black;
+    background: lightgoldenrodyellow;
+  }
+  
+  body > p3 {
+    font-size: 50px;
+    font-family: 'Julee' , serif;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    line-height: 1.5;
+    color: red;
+    background: black;
+  }
+  body > p4 {
+    font-size: 35px;
+    font-family: 'satisfy' , serif;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    line-height: 1.5;
+    color: green;
+    background-color: white;
+  }
+  body > p5{
+    font-size: 50px;
+    font-family: 'julee' , serif;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    line-height: 1.5;
+    color: red;
+    background: black;
+  }
+  footer p{
+    color: white;
+    font-family: 'satisfy' , serif;
+    display: flex;
+    justify-content: right;
+  }
+  footer a{
+    color: rgb(24, 12, 255);
+    font-family: 'satisfy' , serif;
+    display: flex;
+    justify-content: right;
+  }
+
+
+  
+  
